@@ -50,11 +50,137 @@
     "Country":"Spain",
     "Podiums":"8",
     "Highest Race Finish":"2"
+  }},
+
+
+  {"Max Verstappen":{
+    "Name":"Max Verstappen",
+    "Team":"Red Bull Racing",
+    "Number":"1",
+    "Country":"Netherlands",
+    "Podiums":"61",
+    "Highest Race Finish":"1"
+  }},
+
+  {"Sergio Perez":{
+    "Name":"Sergio Perez",
+    "Team":"Red Bull Racing",
+    "Number":"11",
+    "Country":"Mexico",
+    "Podiums":"16",
+    "Highest Race Finish":"1"
+  }},
+
+  {"Alex Albon":{
+    "Name":"Alex Albon",
+    "Team":"Williams Racing",
+    "Number":"23",
+    "Country":"Thailand",
+    "Podiums":"2",
+    "Highest Race Finish":"3"
+  }},
+
+  {"Nicholas Latifi":{
+    "Name":"Nicholas Latifi",
+    "Team":"Williams Racing",
+    "Number":"6",
+    "Country":"Canada",
+    "Podiums":"N/A",
+    "Highest Race Finish":"10"
+  }},
+
+  {"Nico Hulkenberg":{
+    "Name":"Nico Hulkenberg",
+    "Team":"Aston Martin",
+    "Number":"11",
+    "Country":"Mexico",
+    "Podiums":"16",
+    "Highest Race Finish":"1"
+  }},
+
+  {"Lance Stroll":{
+    "Name":"Lance Stroll",
+    "Team":"Aston Martin",
+    "Number":"18",
+    "Country":"Canada",
+    "Podiums":"3",
+    "Highest Race Finish":"1"
+  }},
+
+  {"Daniel Riccardo":{
+    "Name":"Daniel Riccardo",
+    "Team":"McLaren",
+    "Number":"3",
+    "Country":"Austrailia",
+    "Podiums":"32",
+    "Highest Race Finish":"1"
+  }},
+
+  {"Lando Norris":{
+    "Name":"Lando Norris",
+    "Team":"McLaren",
+    "Number":"4",
+    "Country":"United Kingdom",
+    "Podiums":"5",
+    "Highest Race Finish":"1"
+  }},
+
+  {"Pierre Gasly":{
+    "Name":"Pierre Gasly",
+    "Team":"Alpha Tauri",
+    "Number":"10",
+    "Country":"France",
+    "Podiums":"3",
+    "Highest Race Finish":"1"
+  }},
+
+  {"Yuki Tsunoda":{
+    "Name":"Yuki Tsunoda",
+    "Team":"Alpha Tauri",
+    "Number":"22",
+    "Country":"Japan",
+    "Podiums":"N/A",
+    "Highest Race Finish":"4"
+  }},
+
+  {"Kevin Magnussen":{
+    "Name":"Kevin Magnussen",
+    "Team":"Haas",
+    "Number":"20",
+    "Country":"Denmark",
+    "Podiums":"1",
+    "Highest Race Finish":"2"
+  }},
+
+  {"Mick Schumacher":{
+    "Name":"Mick Schumacher",
+    "Team":"Haas",
+    "Number":"47",
+    "Country":"Germany",
+    "Podiums":"N/A",
+    "Highest Race Finish":"11"
+  }},
+
+  {"Fernando Alonso":{
+    "Name":"Fernando Alonso",
+    "Team":"Alpine",
+    "Number":"14",
+    "Country":"Spain",
+    "Podiums":"98",
+    "Highest Race Finish":"1"
+  }},
+
+  {"Esetban Ocon":{
+    "Name":"Esteban Ocon",
+    "Team":"Alpine",
+    "Number":"31",
+    "Country":"France",
+    "Podiums":"2",
+    "Highest Race Finish":"1"
   }}
 
-
-
 ]}
+
 
 
 
