@@ -14,5 +14,48 @@
       "Country":"China",
       "Podiums":"0",
       "Highest Race Finish":"10"
-    }}
+    }},
+
+  {"Lewis Hamilton":{
+    "Name":"Lewis Hamilton",
+    "Team":"Mercedes",
+    "Number":"44",
+    "Country":"United Kingdom",
+    "Podiums":"183",
+    "Highest Race Finish":"1"
+  }},
+
+  {"George Russell":{
+    "Name":"George Russell",
+    "Team":"Mercedes",
+    "Number":"63",
+    "Country":"United Kingdom",
+    "Podiums":"2",
+    "Highest Race Finish":"2"
+  }},
+
+  {"Charles Leclerc":{
+    "Name":"Charles Leclerc",
+    "Team":"Scuderia Ferrari",
+    "Number":"16",
+    "Country":"Monaco",
+    "Podiums":"16",
+    "Highest Race Finish":"1"
+  }},
+
+  {"Carlos Sainz":{
+    "Name":"Carlos Sainz",
+    "Team":"Scuderia Ferrari",
+    "Number":"55",
+    "Country":"Spain",
+    "Podiums":"8",
+    "Highest Race Finish":"2"
+  }}
+
+
+
 ]}
+
+
+
+
