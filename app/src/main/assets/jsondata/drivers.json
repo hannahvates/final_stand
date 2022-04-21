@@ -1,6 +1,7 @@
 {"Drivers":[
   {"Valterri Bottas":{
       "Name":"Valterri Bottas",
+      "Desc": "Valterri previously drove for Mercedes from 2017 to 2021, and Williams from 2013 to 2016. Valterri has won 10 races",
       "Team":"Alfa Romeo",
       "Number":"77",
       "Country":"Finland",
@@ -9,6 +10,7 @@
     }},
   {"Guanyu Zhou":{
       "Name":"Guanyu Zhou",
+      "Desc": "Guanyu is in his rookie year as a F1 driver. He previously drove in F2 for UN-Virtuosi. Guanyu recieved 3rd in the 2021 F2 Championship",
       "Team":"Alfa Romeo",
       "Number":"24",
       "Country":"China",
@@ -19,6 +21,7 @@
   {"Lewis Hamilton":{
     "Name":"Lewis Hamilton",
     "Team":"Mercedes",
+    "Desc": "Lewis Hamilton has won 7 Driver's Championships. He previously raced for Mclaren from 2007-2013",
     "Number":"44",
     "Country":"United Kingdom",
     "Podiums":"183",
@@ -28,6 +31,7 @@
   {"George Russell":{
     "Name":"George Russell",
     "Team":"Mercedes",
+    "Desc": "George Russel previosuly drove for Willams Racing.",
     "Number":"63",
     "Country":"United Kingdom",
     "Podiums":"2",
