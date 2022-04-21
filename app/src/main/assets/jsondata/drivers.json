@@ -31,7 +31,7 @@
   {"George Russell":{
     "Name":"George Russell",
     "Team":"Mercedes",
-    "Desc": "George Russel previosuly drove for Willams Racing.",
+    "Desc": "George Russell previously drove for Willams Racing.",
     "Number":"63",
     "Country":"United Kingdom",
     "Podiums":"2",
@@ -176,6 +176,7 @@
 
   {"Esetban Ocon":{
     "Name":"Esteban Ocon",
+    "Desc": "",
     "Team":"Alpine",
     "Number":"31",
     "Country":"France",
